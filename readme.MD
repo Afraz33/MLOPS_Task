@@ -17,4 +17,4 @@ Run the main.py file.
 
 Contributors
 Afraz - 20I-0680
-Faizan - Group 20I-1832
+Faizan - 20I-1832
